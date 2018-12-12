@@ -114,4 +114,4 @@ Date:   Tue Dec 11 12:02:12 2018 +0900
 ```
 これで、ディレクトリの変更履歴を保存することができました。
 
-[ブランチの管理]()
+### 次回 [2.ブランチの管理](https://github.com/HappyKoyo/git_setup/blob/master/2_branch.md)

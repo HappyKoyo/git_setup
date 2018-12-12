@@ -125,3 +125,4 @@ HEAD is now at da8ad1b add fuga.txt
 ```
 これで、fuga.txtが復活しているはずです。
 
+### 次回 [3.Github入門](https://github.com/HappyKoyo/git_setup/blob/master/3_github_tutorial.md)

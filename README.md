@@ -8,6 +8,6 @@ Github講座 :octocat:
 なお、@HomeプロジェクトでGithubを最低限使えることを目標としているので、もっと詳しく知りたい人は公式HPへ行きましょう。
 
 ## 目次
-１．[Git入門]()
-２．[リポジトリの管理]()
-３．[Github入門]()
+### １．[Git入門](https://github.com/HappyKoyo/git_setup/blob/master/1_git_setup.md)  
+### ２．[リポジトリの管理](https://github.com/HappyKoyo/git_setup/blob/master/2_branch.md)  
+### ３．[Github入門](https://github.com/HappyKoyo/git_setup/blob/master/3_github_tutorial.md)  
