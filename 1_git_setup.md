@@ -1,21 +1,24 @@
-Git入門 :octocat:
+1.Git入門 :octocat:
 ====
 この章ではソフトウェアのバージョン管理を行うツール「**git**」について、説明をします。
 
 ## 1.gitのインストール
+まず最初にインストールをしましょう。
+
 ```
 $ sudo apt-get install git
 ```
 
 ## 2.gitの初期設定
 ```
-$ git config global user.name ユーザ名
-$ git config global user.email メールアドレス
+$ git config --global user.name ユーザ名
+$ git config --global user.email メールアドレス
 ```
 
 ## 3.演習  
-実習形式で使い方を学んでもらいます。今回は~/srcの中にgit_tutorialというディレクトリを作り、そこでファイル管理をすることを考えましょう。
-gitではリポジトリというものに変更点を保存して、管理をします。  
+実習形式で使い方を学んでもらいます。  
+今回は~/srcの中にgit_tutorialというディレクトリを作り、そこでファイル管理をすることを考えます。  
+gitではリポジトリというものに変更点を保存して、管理をします。（厳密にいうと、リポジトリとはミニファイルシステムのスナップショットを保存しているもの）  
 では、まずリポジトリの初期化をしましょう。
 
 ```
@@ -114,4 +117,4 @@ Date:   Tue Dec 11 12:02:12 2018 +0900
 ```
 これで、ディレクトリの変更履歴を保存することができました。
 
-### 次回 [2.ブランチの管理](https://github.com/HappyKoyo/git_setup/blob/master/2_branch.md)
+### 次回 [2.リポジトリの管理](https://github.com/HappyKoyo/git_setup/blob/master/2_branch.md)

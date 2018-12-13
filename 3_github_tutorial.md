@@ -1,4 +1,4 @@
-Github入門 :octocat:
+3.Github入門 :octocat:
 ====
 
 ## 1.Githubにリポジトリを登録しよう
@@ -28,7 +28,7 @@ $ git push -u origin master
 ## 2.Githubからリポジトリをクローン（ダウンロード）しよう
 Githubからリポジトリをクローンします。
 
-1.https://github.com/HappyKoyo/git_setupのURL先に行って、画面右にあるclone or downloadをクリックし、https://github.com/HappyKoyo/git_setup.gitをコピー
+1.[ここ](https://github.com/HappyKoyo/git_setup)に行って、画面右にあるclone or downloadをクリックし、"https://github.com/HappyKoyo/git_setup.git"をコピー
 
 2.保存したいディレクトリ内で、以下のコマンドを実行することでクローンすることができる。
 
