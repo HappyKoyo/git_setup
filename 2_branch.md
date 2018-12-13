@@ -120,7 +120,7 @@ commitの横に書いてあるのが、コミットIDです。
 今回は、fuga.txtがあったバージョンへ戻しましょう。
 
 ```
-$ git reset --hard git da8ad1b1947a5f194f924aafc9b21c43f9a93a79
+$ git reset --hard da8ad1b1947a5f194f924aafc9b21c43f9a93a79
 HEAD is now at da8ad1b add fuga.txt
 ```
 これで、fuga.txtが復活しているはずです。
