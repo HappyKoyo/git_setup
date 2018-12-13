@@ -10,6 +10,8 @@ $ sudo apt-get install git
 ```
 
 ## 2.gitの初期設定
+ユーザ名、メールアドレスと書かれたところを消して、それぞれの情報を入寮してください。
+
 ```
 $ git config --global user.name ユーザ名
 $ git config --global user.email メールアドレス

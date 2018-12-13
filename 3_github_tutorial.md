@@ -33,5 +33,5 @@ Githubからリポジトリをクローンします。
 2.保存したいディレクトリ内で、以下のコマンドを実行することでクローンすることができる。
 
 ```
-$ git clone https://github.com/HappyKoyo/git_setup.git
+$ git clone https://github.com/HappyKoyo/git_setup.git ←コピーしたURL
 ```
