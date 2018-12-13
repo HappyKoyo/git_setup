@@ -20,7 +20,7 @@ githubでは、前章で作ったリポジトリをネット上で管理する�
 ```
 $ cd ~/src/git_tutorial
 # これで、ローカル（PC内）のリポジトリに、リモート（Github上）のリポジトリを対応させます。
-$ git remote add コピーしたURL(例：https://github.com/your_name/git_tutorial.git)
+$ git remote add origin コピーしたURL(例：https://github.com/your_name/git_tutorial.git)
 # 最後に、リモートリポジトリに送信する。
 $ git push -u origin master
 ```
